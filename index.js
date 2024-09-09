@@ -1,9 +1,6 @@
 const readline = require("readline-sync");
 
-let listaToDo = [
-  { posicao: 0, atividade: "Comprar pão" },
-  { posicao: 1, atividade: "Comprar carne" },
-];
+let listaToDo = [];
 
 let acao;
 
